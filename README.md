@@ -3,7 +3,7 @@ A personalised learning system providing a distraction free environment by using
 
 
 Team Members:
-* Harshini B (CB.SC.U4CYS25023)
+* Harshini B (CB.SC.U4CYS25023) [Team Leader]
 * Akshaya J L (CB.EN.U4ECE25111)
 * Sandilya K (CB.SC.U4CYS25029)
 * Abhijith K (CB.SC.U4CYS25027)
